@@ -142,11 +142,7 @@ const Index = () => {
           </div>
         </div>
       </div>
-      <ul>
-        <li>Ajoute teks yo</li>
-        <li>chwazi imaj</li>
-        <li>klike sou jenere</li>
-      </ul>
+      <h3>Chwazi yon imaj</h3>
       <div className="d-flex justify-content-center">
       </div>
       <div className="col-md-12 row d-flex justify-content-center">
