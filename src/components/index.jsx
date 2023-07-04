@@ -19,9 +19,7 @@ const Index = () => {
   }, []);
 
   const next = () => {
-    alert(process.env.REACT_APP_USERNAME);
     setlimit(limit + 10);
-    alert(limit);
   };
   const back = () => {
     setlimit(limit - 10);
